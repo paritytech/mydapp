@@ -1,4 +1,6 @@
-# Skeleton dapp.
+# Tutorial Code
+
+This repo contains the code as iterated through in the [Dapp Tutorial on the Parity wiki](https://github.com/paritytech/parity/wiki/Tutorial-Part-I).
 
 To install:
 
